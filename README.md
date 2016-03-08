@@ -26,7 +26,7 @@ Because that's how we do
 
 Please see each of the links to each of the plans for the party:
 ## Food
-[Food](FOOD.mD)
+[Food](FOOD.md)
 ## Venue
 [Venue](VENUE.mD)
 ## Entertainment
